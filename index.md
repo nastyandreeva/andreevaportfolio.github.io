@@ -7,5 +7,6 @@
  5. [ООП](https://github.com/python-advance/sem5-oop-nastyandreeva)
  6. [Исключение2](https://github.com/python-advance/sem5-exceptions-nastyandreeva)
  7. [Two sum](https://github.com/python-advance/sem4-2016-two-sum-nastyandreeva)
- 8. [Презентация](https://kodaktor.ru/3ae91f2_2a3f2)
+ 8. [Презентация1](https://slides.com/molpik/deck-2)
+ 9. [Презентация1](https://slides.com/molpik/deck-3)
  
