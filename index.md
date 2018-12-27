@@ -8,5 +8,5 @@
  6. [Исключение2](https://github.com/python-advance/sem5-exceptions-nastyandreeva)
  7. [Two sum](https://github.com/python-advance/sem4-2016-two-sum-nastyandreeva)
  8. [Презентация1](https://slides.com/molpik/deck-2)
- 9. [Презентация1](https://slides.com/molpik/deck-3)
+ 9. [Презентация2](https://slides.com/molpik/deck-3)
  
